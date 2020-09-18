@@ -1,0 +1,4 @@
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2A\bin\Debug\Practical2A.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2A\bin\Debug\Practical2A.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2A\obj\x86\Debug\Practical2A.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2A\obj\x86\Debug\Practical2A.pdb

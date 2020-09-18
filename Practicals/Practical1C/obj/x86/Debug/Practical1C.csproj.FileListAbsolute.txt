@@ -1,0 +1,9 @@
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1C\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1C\bin\Debug\Practical1C.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1C\bin\Debug\Practical1C.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1C\obj\x86\Debug\Practical1C.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1C\obj\x86\Debug\Practical1C.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1C\bin\Debug\Practical1C.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1C\bin\Debug\Practical1C.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1C\obj\x86\Debug\Practical1C.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1C\obj\x86\Debug\Practical1C.pdb

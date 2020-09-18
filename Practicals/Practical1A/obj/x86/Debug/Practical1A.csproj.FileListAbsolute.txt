@@ -1,0 +1,16 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Practical1A\bin\Debug\Practical1A.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Practical1A\bin\Debug\Practical1A.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Practical1A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Practical1A\obj\x86\Debug\Practical1A.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\Practical1A\obj\x86\Debug\Practical1A.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Practical1A\Practical1A\obj\x86\Debug\Practical1A.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2010\Projects\Practical1A\Practical1A\obj\x86\Debug\Practical1A.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1A\obj\x86\Debug\Practical1A.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1A\obj\x86\Debug\Practical1A.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1A\bin\Debug\Practical1A.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1A\bin\Debug\Practical1A.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practical1A\Practical1A\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\bin\Debug\Practical1A.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\bin\Debug\Practical1A.pdb
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\obj\x86\Debug\Practical1A.exe
+C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\obj\x86\Debug\Practical1A.pdb

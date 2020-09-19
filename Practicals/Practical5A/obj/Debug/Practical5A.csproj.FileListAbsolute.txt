@@ -1,0 +1,5 @@
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical5A\bin\Practical5A.dll.config
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical5A\bin\Practical5A.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical5A\bin\Practical5A.pdb
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical5A\obj\Debug\Practical5A.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical5A\obj\Debug\Practical5A.pdb

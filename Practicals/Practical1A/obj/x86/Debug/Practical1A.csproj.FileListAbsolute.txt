@@ -14,3 +14,5 @@ C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\bin\Debu
 C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\bin\Debug\Practical1A.pdb
 C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\obj\x86\Debug\Practical1A.exe
 C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical1A\obj\x86\Debug\Practical1A.pdb
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical1A\obj\x86\Debug\Practical1A.exe
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical1A\obj\x86\Debug\Practical1A.pdb

@@ -2,3 +2,5 @@ C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2C\bin\Debu
 C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2C\bin\Debug\Practical2C.pdb
 C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2C\obj\x86\Debug\Practical2C.exe
 C:\Users\Rahul\Desktop\Git_repos\Learning-CSharp\Practicals\Practical2C\obj\x86\Debug\Practical2C.pdb
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical2C\obj\x86\Debug\Practical2C.exe
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical2C\obj\x86\Debug\Practical2C.pdb

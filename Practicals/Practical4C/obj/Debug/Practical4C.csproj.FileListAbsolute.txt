@@ -1,0 +1,6 @@
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical4C\bin\Practical4C.dll.config
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical4C\bin\Practical4C.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical4C\bin\Practical4C.pdb
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical4C\obj\Debug\Practical4C.csprojResolveAssemblyReference.cache
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical4C\obj\Debug\Practical4C.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical4C\obj\Debug\Practical4C.pdb

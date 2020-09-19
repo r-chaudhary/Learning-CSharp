@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Advertisements>
+  <Ad>
+    <ImageUrl>download.jpg</ImageUrl>
+    <NavigateUrl>http://www.1800flowers.com</NavigateUrl>
+    <AlternateText>
+      Order flowers, roses, gifts and more
+    </AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>flowers</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>download (1).jpg</ImageUrl>
+    <NavigateUrl>www.google.com</NavigateUrl>
+    <AlternateText>Order roses and flowers</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>gifts</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>dowload2.jpg</ImageUrl>
+    <NavigateUrl>https://www.vablet.com/</NavigateUrl>
+    <AlternateText>Send flowers to Russia</AlternateText>
+    <Impressions>20</Impressions>
+    <Keyword>russia</Keyword>
+  </Ad>
+</Advertisements>

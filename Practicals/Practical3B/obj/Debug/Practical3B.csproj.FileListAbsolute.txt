@@ -1,0 +1,6 @@
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical3B\obj\Debug\Practical3B.csprojResolveAssemblyReference.cache
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical3B\bin\Practical3B.dll.config
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical3B\bin\Practical3B.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical3B\bin\Practical3B.pdb
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical3B\obj\Debug\Practical3B.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practical3B\obj\Debug\Practical3B.pdb

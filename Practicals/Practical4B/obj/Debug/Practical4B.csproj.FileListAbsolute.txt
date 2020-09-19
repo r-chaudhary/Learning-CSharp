@@ -1,0 +1,5 @@
+D:\syit\es\awp\Learning-CSharp\Practicals\Practiacal4B\bin\Practiacal4B.dll.config
+D:\syit\es\awp\Learning-CSharp\Practicals\Practiacal4B\bin\Practiacal4B.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practiacal4B\bin\Practiacal4B.pdb
+D:\syit\es\awp\Learning-CSharp\Practicals\Practiacal4B\obj\Debug\Practiacal4B.dll
+D:\syit\es\awp\Learning-CSharp\Practicals\Practiacal4B\obj\Debug\Practiacal4B.pdb
